@@ -13,3 +13,20 @@ Make changes to product
 Remeasure
 
 Also if we are falling short of a metric , we make hypothesis and make changes to our product and come back and remeasure.
+
+How do you use Metrics ?
+	1 - Establish a base line
+	2 - Determine a course of action - What actions do you have to take to move that metric 				from base line to a positive direction
+	3 - Build a business case - How much you have to take that action to move that metrics. 				This is hypothesis at this time , so you have to go and do that thing (action) then 				evaluate success.
+	4 - Evaluate success - Because of doing X moved my metric from baseline to  Y and learn 		from that and you decide whether to continue moving forward with that action or 				pivot from that action to a different action.
+	5 - Move forward using data
+  
+  Metrics are Tiered :
+	Company metric : If users are happy, finding value also revenue	
+	Product: Success metrics.	Features: Feature success metric and the metrics that contribute to completing that step.
+
+To improve a success metric, you might focus on a feature-level metric.  E.g., you might need to get more people downloading your app so that you can get more people completing the core action.
+
+Vanity vs Actionable Metrics:
+Vanity : Good but don’t help you  decide what to do next
+Actionable : Metrics that helps us understand what a customer is doing.
